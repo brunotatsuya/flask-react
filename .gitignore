@@ -1,6 +1,9 @@
-venv/
+# Python (backend)
 
-# Logs
+venv/
+*.pyc
+
+# React (frontend)
 logs
 *.log
 npm-debug.log*
